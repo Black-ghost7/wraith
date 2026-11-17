@@ -124,7 +124,7 @@ Version 2.0.0 is a full rewrite in Python. The earlier Shell version (1.x) was a
 - GitHub: https://github.com/Black-ghost7
 - LinkedIn: https://www.linkedin.com/in/black-ghost7
 - Facebook: https://www.facebook.com/share/1a8LnoWP7b/
-  - Discord: [BLACK GHOST](https://discord.gg/d4ukbQKkSh)
+- Discord: https://discord.gg/d4ukbQKkSh
 - TryHackMe: https://tryhackme.com/p/Blackghost7
 
 ## License

@@ -119,14 +119,6 @@ WRAITH is a privacy and learning tool. Use it only on systems and networks you o
 
 Version 2.0.0 is a full rewrite in Python. The earlier Shell version (1.x) was a menu prototype and did not route traffic. This version implements the features listed above.
 
-## Connect
-
-- GitHub: https://github.com/Black-ghost7
-- LinkedIn: https://www.linkedin.com/in/black-ghost7
-- Facebook: https://www.facebook.com/share/1DxcTtp66P/
-- Discord: https://discord.gg/d4ukbQKkSh
-- TryHackMe: https://tryhackme.com/p/Blackghost7
-
 ## License
 
 Released under the [MIT License](LICENSE).
